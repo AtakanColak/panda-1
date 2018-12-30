@@ -1,0 +1,4 @@
+-I did not do any extensions this time.
+-List module works properly, and so does its testing.
+-I used sentinel nodes.
+-I added a boolean isEmpty to determine whether to insert a new node when calling insertBefore After or change the value of the node when there is only one node, and the opposite works when delete before/after is called. 
